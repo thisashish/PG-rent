@@ -11,12 +11,8 @@ session_start();
 
     <?php
     include "includes/head_links.php";
-    include "property_list.php";
-    include "property_detail.php";
-    include "dashboard.php";
-    
-    
     ?>
+    
     <link href="css/home.css" rel="stylesheet" />
 </head>
 
